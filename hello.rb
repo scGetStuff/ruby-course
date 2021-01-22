@@ -1,6 +1,6 @@
 # Lesson 1: Outputting a String
 
-puts "Hello World!"
+puts "Hello Void!"
 
 # Lesson 2: Prompting User Input
 puts "What is your name?"
